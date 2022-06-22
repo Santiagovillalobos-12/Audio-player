@@ -1,0 +1,11 @@
+{
+  "name": "reproductor-de-audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "watch-scss": "sass --watch app.scss:app.css --no-source-map --style compressed"
+  },
+  "author": "",
+  "license": "ISC"
+}
